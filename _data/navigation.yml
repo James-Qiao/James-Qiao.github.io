@@ -15,8 +15,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/ # in /_posts/
     
-  - title: "Projects"
-    url: /projects/
+  # - title: "Projects"
+  #   url: /projects/
 
   - title: "CV"
     url: /files/Qiao Jiamu_CV_Jan2024.pdf

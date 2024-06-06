@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: " 👋🏼 :wave: Jiamu (James) Qiao"
+title: " 👋🏼 Jiamu (James) Qiao"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 I am a junior student at the University of Hong Kong, now exchanging at University of California, San Diego. I am interested in bioinformatics and machine learning! Currently I am working on a deep learning model to predict RNA binding protein (RBP) binding site.
 
-Click [CV]("/files/Qiao Jiamu_CV_Jan2024.pdf") to know more
+See my CV to know more!
 
 Projects
 ======
